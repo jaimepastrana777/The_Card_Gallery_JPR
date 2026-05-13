@@ -1,0 +1,124 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "title": "Delicious Monster",
+      "subtitle": "Split-leaf philodendron",
+      "description": "Delicious Monster, called the cerimán or Adam's rib, is a species of climbing plant in the Araceae family, endemic to tropical rainforests from central Mexico to northern Argentina.",
+      "category": "Tropical",
+      "origin": "Native to tropical forests of southern Mexico, south to Panama.",
+      "careLevel": "Easy",
+      "waterFrequency": "Weekly",
+      "sunlight": "Indirect Light",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669821/foto1_xsyezl.webp"
+    },
+    {
+      "id": 2,
+      "title": "Black Bat Flower",
+      "subtitle": "Tacca chantrieri",
+      "description": "One of the most bizarre flowers in the plant kingdom, the Black Bat Flower features dark purple-black petals resembling a bat in flight, with long whisker-like bracteoles that can reach up to 70cm.",
+      "category": "Tropical",
+      "origin": "Native to tropical regions of Southeast Asia, including Thailand and southern China.",
+      "careLevel": "Hard",
+      "waterFrequency": "Weekly",
+      "sunlight": "Partial Shade",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669820/foto2_edrifg.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Living Stones",
+      "subtitle": "Lithops",
+      "description": "Masters of camouflage, Lithops are succulent plants that mimic the appearance of pebbles and stones to avoid being eaten by herbivores in their native desert habitat.",
+      "category": "Desert",
+      "origin": "Native to the arid regions of southern Africa, particularly Namibia and South Africa.",
+      "careLevel": "Medium",
+      "waterFrequency": "Rarely",
+      "sunlight": "Full Sun",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669820/foto3_kdpbp1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Rafflesia",
+      "subtitle": "Rafflesia arnoldii",
+      "description": "The largest individual flower on Earth, Rafflesia can reach up to 1 meter in diameter and weigh up to 10kg. It produces a rotting flesh smell to attract pollinating flies.",
+      "category": "Tropical",
+      "origin": "Native to the rainforests of Sumatra and Borneo, Indonesia.",
+      "careLevel": "Hard",
+      "waterFrequency": "Rarely",
+      "sunlight": "Partial Shade",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778670022/foto_12_a14luy.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Rainbow Eucalyptus",
+      "subtitle": "Eucalyptus deglupta",
+      "description": "The only eucalyptus native to the northern hemisphere, its trunk reveals a stunning natural rainbow as patches of outer bark shed annually, exposing bright green inner bark that matures to blue, purple and orange.",
+      "category": "Tropical",
+      "origin": "Native to the Philippines, Indonesia and Papua New Guinea.",
+      "careLevel": "Easy",
+      "waterFrequency": "Weekly",
+      "sunlight": "Full Sun",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669821/foto5_qpdw84.webp"
+    },
+    {
+      "id": 6,
+      "title": "Corpse Flower",
+      "subtitle": "Amorphophallus titanum",
+      "description": "Famous for producing the world's largest unbranched inflorescence, the Corpse Flower blooms only once every few years and emits a powerful odor of rotting flesh to attract pollinators.",
+      "category": "Tropical",
+      "origin": "Native to the rainforests of Sumatra, Indonesia.",
+      "careLevel": "Hard",
+      "waterFrequency": "Biweekly",
+      "sunlight": "Partial Shade",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669820/foto4_ibtyhu.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ghost Orchid",
+      "subtitle": "Dendrophylax lindenii",
+      "description": "One of the rarest and most mysterious flowers in the world, the Ghost Orchid has no leaves and appears to float in mid-air. It can only be pollinated by the giant sphinx moth.",
+      "category": "Tropical",
+      "origin": "Native to Cuba, the Bahamas and the swamps of Florida, USA.",
+      "careLevel": "Hard",
+      "waterFrequency": "Weekly",
+      "sunlight": "Indirect Light",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669821/foto_10_hk7wct.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Dragon Blood Tree",
+      "subtitle": "Dracaena cinnabari",
+      "description": "With its iconic umbrella-shaped canopy and dark red resin known as dragon's blood, this ancient tree is one of the most alien-looking plants on Earth, surviving in one of the world's most isolated archipelagos.",
+      "category": "Desert",
+      "origin": "Endemic to the Socotra archipelago, Yemen.",
+      "careLevel": "Easy",
+      "waterFrequency": "Rarely",
+      "sunlight": "Full Sun",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669821/foto_9_lqmsu0.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Venus Flytrap",
+      "subtitle": "Dionaea muscipula",
+      "description": "The most famous carnivorous plant in the world, the Venus Flytrap snaps shut in under a second when its trigger hairs are touched, trapping insects and spiders to digest as a nutrient source.",
+      "category": "Carnivorous",
+      "origin": "Native to the subtropical wetlands of North and South Carolina, USA.",
+      "careLevel": "Medium",
+      "waterFrequency": "Weekly",
+      "sunlight": "Full Sun",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669822/foto8_ucofdk.png"
+    },
+    {
+      "id": 10,
+      "title": "Welwitschia",
+      "subtitle": "Welwitschia mirabilis",
+      "description": "A true living fossil, Welwitschia produces only two leaves throughout its entire life, which can span over 2000 years. These leaves grow continuously and become shredded by the desert winds over centuries.",
+      "category": "Desert",
+      "origin": "Endemic to the Namib Desert in Namibia and Angola.",
+      "careLevel": "Easy",
+      "waterFrequency": "Rarely",
+      "sunlight": "Full Sun",
+      "image": "https://res.cloudinary.com/de7m4nolu/image/upload/v1778669821/foto7_wpjmea.jpg"
+    }
+  ]
+}
